@@ -6,9 +6,11 @@
 <img src = "https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 <img src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 <img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+<br/>
 :books: I already learned: HTML5 and CSS3 
 <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<br/>
 :outbox_tray: 2022 Goals: until March 30 get a job as a php programmer.
 
 ## About me
@@ -20,7 +22,8 @@ wherever you want and only you define your limite.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusOlivr&show_icons=true&theme=vision-friendly-dark)
 
 
-## 
+## CONTACT:
+<a href = "href = "https://www.linkedin.com/in/matheus-oliveira-458277180/" target = "blink"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 - Thanks for visiting.
 
 - Enjoy it!! o/
