@@ -2,7 +2,7 @@
 ## I'm (Matheus de Oliveira)!
 :computer: I'm Back-end Developer!
 :house_with_garden: I’m from Brazil.
-:books: I’m currently learning PHP, mysql and java.
+:books: I’m currently learning PHP, mysql and java.<br/>
 <img src = "https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 <img src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 <img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
@@ -17,9 +17,7 @@ I love understand how the things work and love tell for other people about what 
 I choise programmation because I feel who I can do all and I feel free.
 I belive who if you have a brain able of learn, have access to information and have opportunity for show who is able, you can go 
 wherever you want and only you define your limite.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusOlivr)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusOlivr&show_icons=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusOliv&show_icons=true&theme=vision-friendly-dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusOlivr&show_icons=true&theme=vision-friendly-dark)
 
 
 ## 
