@@ -15,11 +15,11 @@
 :outbox_tray: 2022 Goals: until March 30 get a job as a php programmer.
 
 ## About me
-I'm a young man who love talk about how the mind work and explain how we our problem arise inside our brain.
-I love understand how the things work and love tell for other people about what I learn, because the learning is only worthwhile if i can share her with other people.
-I choise programmation because I feel who I can do all and I feel free.
-I belive who if you have a brain able of learn, have access to information and have opportunity for show who is able, you can go 
-wherever you want and only you define your limite.
+I'm a young man who love talk about how the mind work and explain how we our problem arise inside our brain.<br/>
+I love understand how the things work and love tell for other people about what I learn, because the learning is only worthwhile if i can share her with other people.<br/>
+I choise programmation because I feel who I can do all and I feel free.<br/>
+I belive who if you have a brain able of learn, have access to information and have opportunity for show who is able, you can go <br/>
+wherever you want and only you define your limite.<br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusOlivr&show_icons=true&theme=vision-friendly-dark)
 
 
