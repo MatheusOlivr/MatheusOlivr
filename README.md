@@ -23,7 +23,8 @@ wherever you want and only you define your limite.
 
 
 ## CONTACT:
-<a href ="https://www.linkedin.com/in/matheus-oliveira-458277180/" target = "blink"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href ="https://www.linkedin.com/in/matheus-oliveira-458277180/" target = "_blank"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><b>CLICK IN IMAGE FOR ACCESS MY PROFILE IN LINKEDIN</b>
+<img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"><b>contato.matheusoliv@outlook.pt</b>
 - Thanks for visiting.
 
 - Enjoy it!! o/
