@@ -48,7 +48,12 @@ wherever you want and only you define your limite.<br/>
 <section class = "certificatesContainer">
 	## MY CERTIFICATES:
 	<article class = 'certificatesCards'>
-		<div class = "card">
+		<div class = "card" style = "
+		display: flex;
+		width: 10vw;
+		height: 20vh;
+		background-color: black;
+		border: 1px;">
 			<img src = ""/>
 		</div>
 	</article>
